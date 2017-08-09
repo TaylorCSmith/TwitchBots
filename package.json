@@ -1,0 +1,22 @@
+{
+  "name": "beepitybot",
+  "version": "1.0.0",
+  "description": "This is my first twitch bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaylorCSmith/TwitchBots.git"
+  },
+  "author": "Taylor Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaylorCSmith/TwitchBots/issues"
+  },
+  "homepage": "https://github.com/TaylorCSmith/TwitchBots#readme",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  }
+}
