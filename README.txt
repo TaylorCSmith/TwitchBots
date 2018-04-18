@@ -12,4 +12,3 @@ As I explore the bots uses more, if I ever start streaming, or if I get requests
 
 If you have any questions, feel free to message me on twitch or discord.
 	Twitch: 	TerrificTaylor
-	Discord: 	ChineseWhiteGuy#8852
